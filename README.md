@@ -6,4 +6,6 @@ new content
 
 new content2
 
+new content3
+
 Test content.
